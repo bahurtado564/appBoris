@@ -1,7 +1,7 @@
 {
   "name": "boris",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://bahurtado564.github.io/appBoris/",
   "dependencies": {
     "gh-pages": "^1.2.0",
