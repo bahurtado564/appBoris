@@ -17,10 +17,10 @@ class App extends Component{
             <Route path="/" exact strict component={Boris2}>
                 
                 </Route>
-                <Route path="/servicio" exact strict component={Servicio}>
+                <Route path="/appBoris/servicio" exact strict component={Servicio}>
                 
                 </Route>
-                <Route path="/inscripcion" exact strict component={SingupPage}></Route>
+                <Route path="/appBoris/inscripcion" exact strict component={SingupPage}></Route>
                 
             </div>
         </Router>    

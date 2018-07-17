@@ -34,7 +34,7 @@ export default class SingupForm extends React.Component {
         
         
         localStorage.setItem("email", this.state.emailUser);
-        window.location="mapa.html";
+        window.location="appBoris/mapa.html";
         
     }
     isValid(){
